@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-### Personnal account
+### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreZT&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 ![AlexandreZT's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreZT&count_private=true&theme=great-gatsby&count_private=true)
