@@ -3,12 +3,12 @@
 ### Personnal account
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreZT&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-![AlexandreZT's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreZT&count_private=true&theme=great-gatsby)
+![AlexandreZT's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreZT&count_private=true&theme=great-gatsby&count_private=true)
 
 ### Professional account
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreznoota&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-![alexandreznoota's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandreznoota&count_private=true&theme=great-gatsby)
+![alexandreznoota's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandreznoota&count_private=true&theme=great-gatsby&count_private=true)
 
 <!--
 **AlexandreZT/AlexandreZT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
